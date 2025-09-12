@@ -351,7 +351,7 @@ ASCII = f"""
 
                     {r}@{x}  Discord User Checker        {r}@{x}
                     {r}@{x}  github.com/ctzo             {r}@{x}
-                    {r}@{x}  e-z.bio/.16                 {r}@{x}
+                    {r}@{x}  e-z.bio/psykotic            {r}@{x}
                     {r}@{x}  Version: {VERSION}              {r}@{x}
         """
 clear()
@@ -659,3 +659,4 @@ print(f"[{Colors.GREEN}+{Colors.ENDC}] Total requests = {Colors.CYAN}{REQUESTS}{
 print(f"[{Colors.GREEN}+{Colors.ENDC}] Total valid names = {Colors.CYAN}{WORKS}{Colors.ENDC}")
 print(f"[{Colors.GREEN}+{Colors.ENDC}] Total invalid names = {Colors.CYAN}{TAKEN}{Colors.ENDC}")
 print(f"[{Colors.GREEN}+{Colors.ENDC}] Total time = {Colors.CYAN}{round(time()-start_time)}{Colors.ENDC} seconds")
+
